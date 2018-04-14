@@ -31,7 +31,7 @@ The [data](data/) folder contains:
 
 The [aux](aux/) folder contains a script for extracting the data set from [The Blog Authorship Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm).
 
-[adjective-vs-adverb.ipynb](adjective-vs-adverb.ipynb) contains code for the task of correcting confused adjectives and adverbs:
+[adjective-vs-adverb.ipynb](adjective-vs-adverb.ipynb) contains a simple prototype for the task of correcting confused adjectives and adverbs:
 - How do we change adjectives to adverbs and vice versa?
 - What features distinguish adjectives from adverbs?
 - Where do we get data?
